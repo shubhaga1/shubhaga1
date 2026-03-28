@@ -25,4 +25,4 @@ Currently focused on platform engineering, AI/ML systems, and preparing for Staf
 
 ---
 
-*[LinkedIn](https://www.linkedin.com/in/shubhaga/) — Engineering Manager*
+*[LinkedIn](https://www.linkedin.com/in/shubhaga/) *
