@@ -25,12 +25,4 @@ Currently focused on platform engineering, AI/ML systems, and preparing for Staf
 
 ---
 
-## Currently studying
-
-- [ ] Graph algorithms (BFS, DFS, Dijkstra)
-- [ ] LLM fine-tuning with NeMo
-- [ ] Distributed systems design (consensus, replication)
-
----
-
 *[LinkedIn](https://www.linkedin.com/in/shubhaga/) — Engineering Manager*
