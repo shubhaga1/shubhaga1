@@ -1,6 +1,6 @@
-# Shubham Garg — Engineering Manager
+# Shubham Garg
 
-Head of Engineering with 15+ years building distributed systems and leading engineering orgs.  
+Head of Engineering with 12+ years building distributed systems and leading engineering orgs.  
 Currently focused on platform engineering, AI/ML systems, and preparing for Staff/Principal IC roles.
 
 ---
